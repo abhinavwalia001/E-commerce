@@ -1,6 +1,6 @@
 # E-Commerce Application
 ## Description
-Point of sale software is used by the retailers to conduct sales in person. It's sometimes a cash register, computer, or even a tablet where cashiers input products, tally the cost, and conduct the financial transaction.
+In this era of internet, eCommerce is growing very fast and these services are both technological and business oriented .This project "eCommerce application" is a web application where some development patterns were followed to achieve the best output.This application will provide an efficient way for customer as well as owners to increase their availability of the services through internet.The development of the application started with determine use cases based on the customer and admin roles, domain modelling architectural pattern if the web application.The process is primarily divided into two parts: the front-end development and back end development. To make the application more efficient we made database design with its relational connectivity. We had make use of the software tools to achieve the secured and reliable development of this application, this includes Spring boot,Angular, MySQL,RestAPI. Here the customer is provided with some credentials through which he/she can make use of the services, buy the required products and all actions of the customer will be tracked and stored separately.
 ## Technologies used
 * Java 8
 * MySQL
